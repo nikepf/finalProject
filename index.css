@@ -1,0 +1,162 @@
+
+
+header{
+    background-image: url("assets/photo1.png");
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+    
+
+    
+
+
+    height: 1000px;
+}
+
+.start{
+    padding-left: 60%;
+    padding-top: 20px;
+    padding-right: 30px;
+    margin-left: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-family: 'Mate SC', serif;
+    
+    color:brown;
+}
+
+.wlc{
+    font-family: 'Mate SC', serif;
+    font-size: 50px;
+    color:aliceblue;
+    padding-top: 300px;
+    
+    text-align: center;
+}
+
+body{
+    font-family: 'Mate SC', serif;
+}
+
+.gen_inf{
+    margin: 100px;
+    display:flex;
+    
+    
+}
+.l_inf{
+    color: black;
+    
+    word-wrap: break-word;
+    
+}
+.r_inf{
+    color: black;
+    margin-left: 200px;
+    font-size: 25px;
+}
+
+.rooms{
+    background-color: rgb(250, 239, 224);
+    height: 2500px;
+    
+}
+.st{
+    font-size: 25px;
+    margin-left: 30%;
+    margin-right: 30%;
+    height: 200px;
+}
+.st1{
+    font-size: 25px;
+    padding-top: 50px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.standart{
+    margin: 100px;
+    display:flex;
+    justify-content:center;
+    
+}
+.l_standart{
+    color: black;
+    
+    word-wrap: break-word;
+    
+}
+.r_standart{
+    color: black;
+    margin-left: 200px;
+    font-size: 20px;
+}
+
+.standart2x{
+    margin: 100px;
+    display:flex;
+    justify-content:center;
+    
+}
+.l_standart2x{
+    color: black;
+    
+    word-wrap: break-word;
+    
+}
+.r_standart2x{
+    color: black;
+    margin-left: 200px;
+    font-size: 20px;
+}
+
+.luxe{
+    margin: 100px;
+    display:flex;
+    justify-content:center;
+    
+}
+.l_luxe{
+    color: black;
+    
+    word-wrap: break-word;
+    
+}
+.r_luxe{
+    color: black;
+    margin-left: 200px;
+    font-size: 20px;
+}
+
+button{
+    background-color:peru;
+    border-radius: 5px;
+    border-color: peru;
+    height: 30px;
+}
+
+.p2{
+    text-align: center;
+}
+
+.item{
+    color: rgb(0, 0, 0);
+    margin: 30px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50px;
+    border-color: peru;
+    height: 60px;
+    width: 60px;
+}
+
+.booked{
+    color: rgb(0, 0, 0);
+    margin: 30px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50px;
+    border-color: rgb(48, 225, 32);
+    height: 60px;
+    width: 60px;
+}
